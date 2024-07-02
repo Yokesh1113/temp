@@ -1,0 +1,101 @@
+1ST DOM ELEMENT
+
+<html lang="en"><head>
+  <script type="module" src="/@vite/client"></script>
+
+  <meta charset="utf-8">
+  <title>APPLogin</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.css"><style>
+
+/*# sourceMappingURL=register.component.css.map */</style></head>
+<body>
+  <app-root _nghost-ng-c1933515739="" ng-version="18.0.0"><router-outlet _ngcontent-ng-c1933515739=""></router-outlet><app-register _nghost-ng-c511194658=""><div _ngcontent-ng-c511194658="" class="container"><form _ngcontent-ng-c511194658="" novalidate="" class="ng-untouched ng-pristine ng-invalid"><label _ngcontent-ng-c511194658="" for="username">Username:</label><input _ngcontent-ng-c511194658="" type="text" id="username" name="username" required="" ng-reflect-required="" ng-reflect-name="username" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c511194658=""><br _ngcontent-ng-c511194658=""><label _ngcontent-ng-c511194658="" for="firstname">First Name:</label><input _ngcontent-ng-c511194658="" type="text" id="firstname" name="firstname" required="" ng-reflect-required="" ng-reflect-name="firstname" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c511194658=""><br _ngcontent-ng-c511194658=""><label _ngcontent-ng-c511194658="" for="lastname">Last Name:</label><input _ngcontent-ng-c511194658="" type="text" id="lastname" name="lastname" required="" ng-reflect-required="" ng-reflect-name="lastname" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c511194658=""><br _ngcontent-ng-c511194658=""><label _ngcontent-ng-c511194658="" for="email">Email:</label><input _ngcontent-ng-c511194658="" type="email" id="email" name="email" required="" ng-reflect-required="" ng-reflect-name="email" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c511194658=""><br _ngcontent-ng-c511194658=""><label _ngcontent-ng-c511194658="" for="password">Password:</label><input _ngcontent-ng-c511194658="" type="password" id="password" name="password" required="" ng-reflect-required="" ng-reflect-name="password" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c511194658=""><br _ngcontent-ng-c511194658=""><label _ngcontent-ng-c511194658="" for="phone">Phone Number:</label><input _ngcontent-ng-c511194658="" type="tel" id="phone" name="phone" required="" ng-reflect-required="" ng-reflect-name="phone" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c511194658=""><br _ngcontent-ng-c511194658=""><button _ngcontent-ng-c511194658="" type="submit" id="register" disabled="">Register</button></form></div></app-register><!--container--></app-root>
+<script src="polyfills.js" type="module"></script><script src="scripts.js" defer=""></script><script src="main.js" type="module"></script>
+
+</body></html>
+
+
+2nd DOM ELEMENT
+
+
+<html lang="en"><head>
+  <script type="module" src="/@vite/client"></script>
+
+  <meta charset="utf-8">
+  <title>APPLogin</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.css"><style>
+
+/*# sourceMappingURL=register.component.css.map */</style></head>
+<body>
+  <app-root _nghost-ng-c1933515739="" ng-version="18.0.0"><router-outlet _ngcontent-ng-c1933515739=""></router-outlet><app-register _nghost-ng-c969753037=""><div _ngcontent-ng-c969753037="" class="container"><form _ngcontent-ng-c969753037="" novalidate="" class="ng-untouched ng-pristine ng-invalid"><label _ngcontent-ng-c969753037="" for="username">Username:</label><input _ngcontent-ng-c969753037="" type="text" id="username" name="username" required="" ng-reflect-required="" ng-reflect-name="username" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c969753037=""><br _ngcontent-ng-c969753037=""><label _ngcontent-ng-c969753037="" for="firstname">First Name:</label><input _ngcontent-ng-c969753037="" type="text" id="firstname" name="firstname" required="" ng-reflect-required="" ng-reflect-name="firstname" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c969753037=""><br _ngcontent-ng-c969753037=""><label _ngcontent-ng-c969753037="" for="lastname">Last Name:</label><input _ngcontent-ng-c969753037="" type="text" id="lastname" name="lastname" required="" ng-reflect-required="" ng-reflect-name="lastname" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c969753037=""><br _ngcontent-ng-c969753037=""><label _ngcontent-ng-c969753037="" for="email">Email:</label><input _ngcontent-ng-c969753037="" type="email" id="email" name="email" required="" ng-reflect-required="" ng-reflect-name="email" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c969753037=""><br _ngcontent-ng-c969753037=""><label _ngcontent-ng-c969753037="" for="phone">Phone Number:</label><input _ngcontent-ng-c969753037="" type="tel" id="phone" name="phone" required="" ng-reflect-required="" ng-reflect-name="phone" ng-reflect-model="" class="ng-untouched ng-pristine ng-invalid"><br _ngcontent-ng-c969753037=""><br _ngcontent-ng-c969753037=""><button _ngcontent-ng-c969753037="" type="submit" id="register" disabled="">Register</button></form></div></app-register><!--container--></app-root>
+<script src="polyfills.js" type="module"></script><script src="scripts.js" defer=""></script><script src="main.js" type="module"></script>
+
+</body></html>
+
+
+SELENIUM SCRIPT
+
+package com.example.demo;
+ 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+ 
+public class RegisterFormAutomation {
+    public static void main(String[] args) {
+        // Set the path to your chromedriver executable
+System.setProperty("webdriver.chrome.driver", "C:\\Users\\2222731\\Downloads\\chromedriver-win64 (1)\\chromedriver-win64\\chromedriver.exe");
+ 
+        // Initialize the WebDriver (e.g., using Chrome)
+        WebDriver driver = new ChromeDriver();
+ 
+        try {
+            // Open the Angular form page
+driver.get("http://localhost:4200/Register");  // Adjust the URL to your local server if necessary
+ 
+            // Locate the form fields and enter values
+WebElement usernameField = driver.findElement(By.id("username"));
+            usernameField.sendKeys("testuser");
+ 
+WebElement firstnameField = driver.findElement(By.id("firstname"));
+            firstnameField.sendKeys("Test");
+ 
+WebElement lastnameField = driver.findElement(By.id("lastname"));
+            lastnameField.sendKeys("User");
+ 
+WebElement emailField = driver.findElement(By.id("email"));
+            emailField.sendKeys("testuser@example.com");
+ 
+WebElement passwordField = driver.findElement(By.id("password"));
+            passwordField.sendKeys("password123");
+ 
+WebElement phoneField = driver.findElement(By.id("phone"));
+            phoneField.sendKeys("1234567890");
+ 
+            // Locate and click the register button
+WebElement registerButton = driver.findElement(By.id("register"));
+registerButton.click();
+ 
+            // Optionally, you can add a wait to see the result
+            Thread.sleep(2000);
+ 
+            // Print a success message
+            System.out.println("Form submitted successfully!");
+ 
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } finally {
+            // Close the browser
+            //driver.quit();
+        }
+    }
+}
+
+
